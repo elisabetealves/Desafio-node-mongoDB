@@ -1,0 +1,2 @@
+id,URL,info/nome,info/descricao,info/quartos,info/area,info/suite,local/cidade,local/bairro,local/mapa/lat,local/mapa/lon,construcao/status,construcao/inicio,construcao/fim,financeiro/valor,financeiro/sinal,financeiro/promocoes/0/tipo
+1,www.meuape.com.br,apartamento,apartamento para casal com filhos,3,84,true,Olinda,Rio Doce,-7.9907141,-34.8416216,obras,2020,2022,150,30,meu primeiro apê
