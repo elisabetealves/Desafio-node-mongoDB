@@ -1,7 +1,7 @@
 {
   "name": "desafio-node-mongo",
   "version": "1.0.0",
-  "description": "Projeto desenvolvido para exemplo prático na empresa NESS",
+  "description": "Projeto desenvolvido para exemplo prático na empresa Morada tecnologia e serviços imóbiliarios",
   "main": "program.js",
   "dependencies": {
     "body-parser": "^1.18.2",
